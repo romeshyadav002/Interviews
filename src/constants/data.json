@@ -1,0 +1,24 @@
+[
+  {
+    "id": 1,
+    "name": "Public",
+    "isFolder": true,
+    "children": [
+      { "id": 2, "name": "Assets", "isFolder": true, "children": [] }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "src",
+    "isFolder": true,
+    "children": [
+      { "id": 4, "name": "components", "isFolder": true, "children": [] }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "package.json",
+    "isFolder": false,
+    "children": []
+  }
+]
